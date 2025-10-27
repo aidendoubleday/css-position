@@ -32,6 +32,9 @@ body {
 
 .nav {
     background-color: rgb(255, 196, 86);
+    position: absolute;
+    right: 0px;
+    bottom: 30%;
     width: fit-content;
     padding: 40px;
     border-bottom-left-radius: 10px;
